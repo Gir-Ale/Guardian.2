@@ -8,9 +8,10 @@ Here you can find a 3mf file to 3D print the robot, as well as the list of parts
 
 
 
-Parts needed: 
+Parts needed:
 
 * 2 DC gear motor
+* 1 L298N speed controller
 * 2 9g servomotors
 * 1 7.4 V to 5v buck convertor
 * 1 ESP-CAM with and antenna
@@ -19,11 +20,9 @@ Parts needed:
 * 1 2S 7.4V Li-ion battery pack
 * 1 I2C audio amplifier
 * 1 speaker
-* 50 M3 screws and nuts 
+* 50 M3 screws and nuts
 * 4 M3 rods
-* 500g of PLA
-
-
+* about 500g of PLA
 
 
 
